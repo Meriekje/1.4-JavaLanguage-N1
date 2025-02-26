@@ -44,7 +44,7 @@ Es van implementar les següents proves per validar el correcte funcionament de 
 
 **Exercici 2: Càlcul de la Lletra del DNI** - Aquest exercici consisteix en crear una classe anomenada CalculoDni que calcula la lletra del DNI a Espanya a partir d'un número de DNI donat.
 
-Mètode: calculateLetter(int dniNumber)\
+Mètode: calculateLetter(int idNumber)\
 Descripció: Calcula la lletra del DNI basant-se en el número proporcionat.
 
 _**Proves amb JUnit:**_\
